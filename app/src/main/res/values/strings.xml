@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Car Application</string>
+
+    <string-array name="activities">
+        <item>Mercedes</item>
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Audi</item>
+        <item>Lexus</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="city_arrays">
+        <item>No selection</item>
+        <item>Downtown Toronto</item>
+        <item>Scarborough</item>
+        <item>North York</item>
+        <item>Mississauga</item>
+        <item>Markham</item>
+    </string-array>
+
+
+</resources>
